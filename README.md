@@ -153,6 +153,4 @@ production-performance-cost-dashboard/
 
 **Microsoft Excel | Data Analysis | Pivot Tables | Pivot Charts | Slicers | Data Visualization | Dashboard Design | Business Reporting | Excel Formulas**
 
-## Author
 
-Created as an Excel Data Analytics portfolio project.
